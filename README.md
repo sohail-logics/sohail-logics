@@ -13,15 +13,13 @@
 
 ---
 
-- 🌱 I’m currently learning **C++ DSA & STL | Data Science with Python | AI/ML Fundamentals**
-
-- 👯 I’m looking to collaborate on **Open Source C++ DSA Library**
+- 🌱 I’m currently focusing on **Real world Problems Solutions**
 
 - 👨‍💻 All of my projects are available at [**My GitHub Portfolio**](https://github.com/sohail-logics)
 
-- 💬 Ask me about **C++, Python, DSA, STL, AI/ML Basics**
+- 💬 Ask me about **Anything you like**
 
-- 📫 Reach me at **sohailahmadpersonal@gmail.com**
+- 📫 Reach me at **sohaillogics@gmail.com**
 
 - ⚡ Fun fact: **I can debug my mood faster than my code**
 
@@ -39,6 +37,15 @@
     </td>
     <td align="center" width="140">
       <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" width="40" height="40" alt="SQL" /><br/>SQL
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /><br/>HTML
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /><br/>CSS
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br/>JavaScript
     </td>
   </tr>
 </table>
@@ -67,18 +74,10 @@
       <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40" alt="Matplotlib" /><br/>Matplotlib
     </td>
     <td align="center" width="140">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit Learn" /><br/>Scikit Learn
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="Jupyter Notebook" /><br/>Jupyter Notebook
     </td>
     <td align="center" width="140">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch" /><br/>PyTorch
-    </td>
-    <td align="center" width="140">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow" /><br/>TensorFlow
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn" /><br/>Seaborn
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" /><br/>AWS Cloud
     </td>
   </tr>
 </table>
@@ -88,7 +87,10 @@
 <h4><strong>Language Usage (Estimated):</strong></h4>
 
 <p>
-  <img src="https://img.shields.io/badge/C++-50%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Python-40%25-yellow?style=for-the-badge&logo=python&logoColor=white" />  
+  <img src="https://img.shields.io/badge/C++-40%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Python-30%25-yellow?style=for-the-badge&logo=python&logoColor=white" />  
   <img src="https://img.shields.io/badge/SQL-10%25-lightgrey?style=for-the-badge&logo=mysql&logoColor=white" />  
+  <img src="https://img.shields.io/badge/HTML-10%25-orange?style=for-the-badge&logo=html5&logoColor=white" />  
+  <img src="https://img.shields.io/badge/CSS-5%25-blueviolet?style=for-the-badge&logo=css3&logoColor=white" />  
+  <img src="https://img.shields.io/badge/JavaScript-5%25-gold?style=for-the-badge&logo=javascript&logoColor=black" />  
 </p>
